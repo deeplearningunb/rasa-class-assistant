@@ -2,6 +2,13 @@
 
 Um Chatbot para ajudar nas tarefas do dia-a-dia na sala de aula
 
+## Ideia
+	Tal bot veio do desejo de automatizar o processo da chamada de cada aula, entretanto essa é só a ideia inicial.
+
+### O que pode se tornar:
+	Esse bot, se aplicado a escolas de Ensino Médio ou Fundamental, poderia ter a funcionalidade de reconhecer os alunos que tem faltas constantes, o que ajudaria a escola se essa quisesse contactar o Conselho Tutelar ou algum órgão similar para averiguar o motivo dessas faltas.
+	Agora se quisermos trazer para o universo universitário, poderia ter funcionalidade de avisar aos alunos a porcentagem de faltas que cada um tem.
+	
 ## Bot
 
 ### RocketChat
